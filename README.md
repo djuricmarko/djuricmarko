@@ -1,6 +1,6 @@
 # Hey, I'm Marko
 
-**Frontend Developer @ [JAGGAER](https://www.jaggaer.com)** | Building things that live in the browser and beyond
+**🧑🏻‍💻 Software Engineer & UI designer** | Building things that live in the browser and beyond
 
 ```
 ~/djuricmarko $ cat skills.json | jq '.current'
